@@ -7,6 +7,12 @@
 ###
 
 <div align="center">
+  <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZrY2Y3aDZnNTFsNjdoN3U0dmFnbjJ6a254NHhia3drMmI0ZXBnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o0vwzuFwCGAFO/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
